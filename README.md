@@ -15,7 +15,7 @@ This project uses real-world EHR data to predict whether a diabetic patient will
 
 ## 🚀 How to Run
 1. Open the notebook in [Google Colab](https://colab.research.google.com/) or Jupyter.
-2. Replace the sample dataset with a larger dataset from sources like [Kaggle](https://www.kaggle.com/datasets/whenamancodes/diabetes-prediction-dataset).
+2. Replace the sample dataset with a larger dataset from sources like [Kaggle](https://www.kaggle.com/datasets/mathchi/diabetes-data-set).
 3. Run each cell in order.
 
 ## 📈 Sample Output
